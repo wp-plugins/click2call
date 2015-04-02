@@ -166,7 +166,7 @@ if (!class_exists('Click2call_Config')) {
                         'title'     => __('Template do botão:', 'click2call-plugin'),
                         'rows'      => '7',
                         'default'      => '<button id="btn-call" class="click2call-btn">
-        <i class="icon-headphones"></i>
+        <i class="click2call-icon-headphones"></i>
         '. __('Ligue Já', 'click2call-plugin') .'
 </button>'
                     ),
@@ -178,9 +178,9 @@ if (!class_exists('Click2call_Config')) {
                         'default'   => '<div class="click2call-modal">
     <h3>Alpha Version</h3>
     <span class="click2call-btn-hangup" style="padding:7px;">
-        <i class="icon-off"></i>
+        <i class="click2call-icon-off"></i>
         '. __('Desligar', 'click2call-plugin') .'</span>
-    <p class="info"></p>
+    <p class="click2call-info"></p>
 </div>'
                     ),
                     array(

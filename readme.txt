@@ -4,7 +4,7 @@ Donate link: http://www.ligflat.com.br/
 Tags: sip, click2call, click to call, click-to-call, html5, call2action, call to action, tollfree, toll-free, 0800, 0800web, 0800-web, 0800
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
