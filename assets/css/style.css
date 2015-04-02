@@ -1,0 +1,23 @@
+.click2call #redux-header {
+	background: #e78000;
+	border-color: #3F2300;
+}
+.click2call #redux-header:before {
+	content: '';
+	background: url('../img/logo.png');
+	width: 40px;
+	height: 40px;
+	display: block;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.click2call #redux-header > .display_header > span {
+	display: none;
+}
+.click2call #import_export_default_section_group_li, .click2call #import_export_default_section_group {
+	display: none !important;
+}
+.click2call .redux-sidebar > ul > li:last-of-type {
+	display: none;
+}
