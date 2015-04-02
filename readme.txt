@@ -4,7 +4,7 @@ Donate link: http://www.ligflat.com.br/
 Tags: sip, click2call, click to call, click-to-call, html5, call2action, call to action, tollfree, toll-free, 0800, 0800web, 0800-web, 0800
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -16,7 +16,7 @@ Calling to your staff through a new toll-free channel directly from your website
 
 It means that you can talk with people direct from your Wordpress website using a very simple shortcode
 
-	[click2call]
+    [click2call]
 
 This shortcode get your **Click2Call ID** from your admin panel and build all necessary stuff to transform your Wordpress in a webphone that dials direct to you!
 
@@ -98,6 +98,9 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 2. This is the second screen shot
 
 == Changelog ==
+
+= 1.0.1 =
+* Template and css update
 
 = 1.0 =
 * Shortcode
