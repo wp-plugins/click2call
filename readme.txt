@@ -99,6 +99,9 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+= 1.0.1 =
+* Template and css update
+
 = 1.0 =
 * Shortcode
 * Admin Panel to customize your Click2Call button, modal template and ID
