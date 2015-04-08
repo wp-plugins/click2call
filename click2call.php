@@ -62,7 +62,7 @@ class WP_Click2Call {
     static function enqueue_scripts() {
         if (!is_admin()) {
             // if (isset(self::$c2c->$config['id']) && !empty(self::$c2c->$config['id']))
-                wp_enqueue_script( 'click2call', 'https://api.ligflat.com.br/click2call/click2call.min.js', array('jquery'), 1, true );
+                wp_enqueue_script( 'click2call', 'https://api.ligflat.com.br/click2call/click2call.min.js', array('jquery'), '1.0.2', true );
         }
         else {
             // admin stylesheet
